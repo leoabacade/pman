@@ -3,7 +3,7 @@
     <head>
         <title>Pac-Man</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link rel="stylesheet" type="text/css" href="style.css"/>
+       
     </head>
     <body>
         <!-- Raphael paper holder -->
@@ -12,8 +12,8 @@
         <div id="lives"></div>
         <div id="level"></div>
         <!-- Libraries -->
-        <script src="libs/jquery-1.8.3.min.js"></script>
-        <script src="libs/raphael-min.js"></script>
+        <script src="jquery-1.8.3.min.js"></script>
+        <script src="raphael-min.js"></script>
         <!-- Game files -->
         <script src="pacman.js"></script>
         <script src="pacman-tools.js"></script>
